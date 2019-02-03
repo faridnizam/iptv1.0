@@ -1,5 +1,4 @@
 #EXTM3U
-##==== ID
 #EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",SALING SAPA TV
 http://stream2.ninmedia.tv/live/nin-salingsapa.stream_nin/playlist.m3u8
 #EXTINF:-1 group-title="Food" tvg-id="" tvg-name="" tvg-logo="",Foodie Channel [540p]
@@ -8,8 +7,6 @@ http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:foodiee/playlist.m3u8
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/playlist.m3u8
 #EXTINF:-1 group-title="News" tvg-id="" tvg-name="" tvg-logo="",JAKARTA GLOBE [720p]
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
-
-##==== AE
 #EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",Abu Dhabi Drama HD [720p]
 http://adtv.ercdn.net/addrama/addrama_720p.m3u8
 #EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",Abu Dhabi Drama HD [720p]
