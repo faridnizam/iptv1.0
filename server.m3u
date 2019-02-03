@@ -1,11 +1,11 @@
 #EXTM3U
-#EXTINF:-1,TVRI
+#EXTINF:-1 tvg-logo="https://iptv.luxe/images/logo/channel/thumbs/1103c2eae40993564620d0326beedffc.png",TVRI
 http://202.80.222.130/000001/2/ch14041511560872104862/1000.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1,TV One
+#EXTINF:-1 tvg-logo="https://iptv.luxe/images/logo/channel/thumbs/ea9d392f2db3aa7a2e9b2266c5503953.png",TV One
 http://202.80.222.130/000001/2/ch14061215030555428637/1000.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1,Metro TV
+#EXTINF:-1 tvg-logo="https://iptv.luxe/images/logo/channel/thumbs/bb3d05263896804e85dbca22be84bb76.png",Metro TV
 http://202.80.222.130/000001/2/ch14041511515576869807/1000.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1,RCTI
+#EXTINF:-1 tvg-logo="https://iptv.luxe/images/logo/channel/thumbs/900aeab81f03b096ae866649493f6c6e.png",RCTI
 http://202.80.222.130/000001/2/ch14041511532707866226/1000.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:-1,GTV
 http://202.80.222.130/000001/2/ch14041511505498448705/1000.m3u8?virtualDomain=000001.live_hls.zte.com
