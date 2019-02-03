@@ -1,0 +1,95 @@
+#EXTM3U
+#EXTINF:-1,TVRI
+http://202.80.222.130/000001/2/ch14041511560872104862/1000.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,TV One
+http://202.80.222.130/000001/2/ch14061215030555428637/1000.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,Metro TV
+http://202.80.222.130/000001/2/ch14041511515576869807/1000.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,RCTI
+http://202.80.222.130/000001/2/ch14041511532707866226/1000.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,GTV
+http://202.80.222.130/000001/2/ch14041511505498448705/1000.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,MNCTV
+http://202.80.222.130/000001/2/ch14041511111714365733/1000.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,iNews
+http://202.80.222.130/000001/2/ch14041511541532132975/1000.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,ANTV
+http://202.80.222.130/000001/2/ch14061215034900095272/1000.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,Indosiar
+http://202.80.222.130/000001/2/ch15051810235326945512/1000.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,Trans TV
+http://202.80.222.130/000001/2/ch14041511552652254306/1000.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,Trans 7
+http://202.80.222.130/000001/2/ch14041511545447343123/1000.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,SCTV
+http://202.80.222.130/000001/2/ch15010918464887721048/1000.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,Kompas TV
+http://202.80.222.130/000001/2/ch00000090990000001730/1000.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,RTV
+http://202.80.222.130/000001/2/ch00000090990000001716/1000.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,JAK TV
+http://202.80.222.130/000001/2/ch00000090990000001695/1000.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,Berita Satu
+http://202.80.222.130/000001/2/ch00000090990000001683/1000.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,BALI TV
+http://202.80.222.130/000001/2/ch00000090990000001729/1000.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,JTV
+http://202.80.222.130/000001/2/ch00000090990000001731/1000.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,NET
+http://202.80.222.130/000001/2/ch00000090990000001723/1000.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,TV9
+http://202.80.222.130/000001/2/ch00000000000000001522/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,DAAI TV
+http://202.80.222.130/000001/2/ch00000090990000001706/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,THRILL ID
+http://202.80.222.130/000001/2/ch14091014374369601668/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,ZEE BIOSKOP
+http://202.80.222.130/000001/2/ch18050415253550847033/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,LIFE
+http://202.80.222.130/000001/2/ch15051810244348873197/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,HIDAYAH
+http://202.80.222.130/000001/2/ch14042115480369186908/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,MNC NEWS
+http://202.80.222.130/000001/2/ch14041511564438196910/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,MNC ENTERTAINMENT
+http://202.80.222.130/000001/2/ch14041511585459217880/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,AUTO GADGET
+http://202.80.222.130/000001/2/ch15060913243195524436/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,MNC SHOP
+http://202.80.222.130/000001/2/ch14042116313092107617/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,MNC LIFESTYLE
+http://202.80.222.130/000001/2/ch14042115455097827083/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,HEALTY BEAUTY
+http://202.80.222.130/000001/2/ch15010918423014569476/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,MNC FASHION
+http://202.80.222.130/000001/2/ch14041514205580055265/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,HOME LIVING
+http://202.80.222.130/000001/2/ch14121910140294885803/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,EXTREME CHANNEL
+http://202.80.222.130/000001/2/ch17112110144611208019/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,INFOTRAINMENT
+http://202.80.222.130/000001/2/ch14041512001060787776/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,FOOD TRAVEL
+http://202.80.222.130/000001/2/ch14041514171573823676/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,IDX CHANNEL
+http://202.80.222.130/000001/2/ch14042115424530214011/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,COMEDY CHANNEL
+http://202.80.222.130/000001/2/ch14061214064040168714/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,GAMES CHANNEL
+http://202.80.222.130/000001/2/ch15092109552025062916/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,MNC CHANNEL
+http://202.80.222.130/000001/2/ch18040213194357388223/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,MUSIC CHANNEL
+http://202.80.222.130/000001/2/ch14041511582088062293/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,HITS
+http://202.80.222.130/000001/2/ch15010713414035158349/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,ALJAZEERA
+http://202.80.222.130/000001/2/ch16061615334440670610/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,RT NEWS
+http://202.80.222.130/000001/2/ch00000090990000001717/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,FRANCE 24
+http://202.80.222.130/000001/2/ch16062015274821614237/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,DW CHANNEL
+http://202.80.222.130/000001/2/ch17092617422344791446/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,TRT WORLD
+http://202.80.222.130/000001/2/ch00000090990000001721/index.m3u8?virtualDomain=000001.live_hls.zte.com
