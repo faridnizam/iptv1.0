@@ -7,89 +7,89 @@ http://202.80.222.130/000001/2/ch14061215030555428637/1000.m3u8?virtualDomain=00
 http://202.80.222.130/000001/2/ch14041511515576869807/1000.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:-1 tvg-logo="https://iptv.luxe/images/logo/channel/thumbs/900aeab81f03b096ae866649493f6c6e.png",RCTI
 http://202.80.222.130/000001/2/ch14041511532707866226/1000.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1,GTV
+#EXTINF:-1 tvg-logo="https://iptv.luxe/images/logo/channel/thumbs/5d7b7671d668e72883dc0bf87d0c0620.png",GTV
 http://202.80.222.130/000001/2/ch14041511505498448705/1000.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1,MNCTV
+#EXTINF:-1 tvg-logo="https://iptv.luxe/images/logo/channel/thumbs/ee30fd62da9ed2f3154a409abbfa357e.png",MNCTV
 http://202.80.222.130/000001/2/ch14041511111714365733/1000.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1,iNews
+#EXTINF:-1 tvg-logo="https://iptv.luxe/images/logo/channel/thumbs/38aa6d4205e1a862fa4f8ae43c96efd8.png",iNews
 http://202.80.222.130/000001/2/ch14041511541532132975/1000.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1,ANTV
+#EXTINF:-1 tvg-logo="https://iptv.luxe/images/logo/channel/thumbs/0b31e022261adf9fc6ce82660ed452d1.png",ANTV
 http://202.80.222.130/000001/2/ch14061215034900095272/1000.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1,Indosiar
+#EXTINF:-1 tvg-logo="https://iptv.luxe/images/logo/channel/thumbs/000e4be121ffecc35dac4fbafc901553.png",Indosiar
 http://202.80.222.130/000001/2/ch15051810235326945512/1000.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1,Trans TV
+#EXTINF:-1 TV tvg-logo="https://iptv.luxe/images/logo/channel/thumbs/3cbcacce0280033198f2da98a2b4e753.png",Trans
 http://202.80.222.130/000001/2/ch14041511552652254306/1000.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1,Trans 7
+#EXTINF:-1 tvg-logo="https://iptv.luxe/images/logo/channel/thumbs/8958551386d9326cfaab8bc165346bfb.png",Trans 7
 http://202.80.222.130/000001/2/ch14041511545447343123/1000.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1,SCTV
+#EXTINF:-1 tvg-logo="https://iptv.luxe/images/logo/channel/thumbs/70b442faf7651ffb07f62cf81fb677b2.png",SCTV
 http://202.80.222.130/000001/2/ch15010918464887721048/1000.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1,Kompas TV
+#EXTINF:-1 tvg-logo="https://iptv.luxe/images/logo/channel/thumbs/af27b0f197147cee7d7b34b47d6555ac.png",Kompas TV
 http://202.80.222.130/000001/2/ch00000090990000001730/1000.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1,RTV
+#EXTINF:-1 tvg-logo="",RTV
 http://202.80.222.130/000001/2/ch00000090990000001716/1000.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1,JAK TV
+#EXTINF:-1 tvg-logo="",JAK TV
 http://202.80.222.130/000001/2/ch00000090990000001695/1000.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1,Berita Satu
+#EXTINF:-1 tvg-logo="",Berita Satu
 http://202.80.222.130/000001/2/ch00000090990000001683/1000.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1,BALI TV
+#EXTINF:-1 tvg-logo="https://iptv.luxe/images/logo/channel/thumbs/e01949dd5646cf5a41b524ac1dbe6106.png",BALI TV
 http://202.80.222.130/000001/2/ch00000090990000001729/1000.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1,JTV
+#EXTINF:-1 tvg-logo="https://iptv.luxe/images/logo/channel/thumbs/c61ed732b4f9bafe14de9fe1e6eba245.png",JTV
 http://202.80.222.130/000001/2/ch00000090990000001731/1000.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1,NET
+#EXTINF:-1 tvg-logo="https://iptv.luxe/images/logo/channel/thumbs/40fa73c9d0083043c6576dd2b40511e4.png",NET
 http://202.80.222.130/000001/2/ch00000090990000001723/1000.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1,TV9
+#EXTINF:-1 tvg-logo="",TV9
 http://202.80.222.130/000001/2/ch00000000000000001522/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1,DAAI TV
+#EXTINF:-1 tvg-logo="",DAAI TV
 http://202.80.222.130/000001/2/ch00000090990000001706/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1,THRILL ID
+#EXTINF:-1 tvg-logo="",THRILL ID
 http://202.80.222.130/000001/2/ch14091014374369601668/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1,ZEE BIOSKOP
+#EXTINF:-1 tvg-logo="",ZEE BIOSKOP
 http://202.80.222.130/000001/2/ch18050415253550847033/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1,LIFE
+#EXTINF:-1 tvg-logo="",LIFE
 http://202.80.222.130/000001/2/ch15051810244348873197/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1,HIDAYAH
+#EXTINF:-1 tvg-logo="",HIDAYAH
 http://202.80.222.130/000001/2/ch14042115480369186908/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1,MNC NEWS
+#EXTINF:-1 tvg-logo="",MNC NEWS
 http://202.80.222.130/000001/2/ch14041511564438196910/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1,MNC ENTERTAINMENT
+#EXTINF:-1 tvg-logo="",MNC ENTERTAINMENT
 http://202.80.222.130/000001/2/ch14041511585459217880/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1,AUTO GADGET
+#EXTINF:-1 tvg-logo="",AUTO GADGET
 http://202.80.222.130/000001/2/ch15060913243195524436/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1,MNC SHOP
+#EXTINF:-1 tvg-logo="",MNC SHOP
 http://202.80.222.130/000001/2/ch14042116313092107617/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1,MNC LIFESTYLE
+#EXTINF:-1 tvg-logo="",MNC LIFESTYLE
 http://202.80.222.130/000001/2/ch14042115455097827083/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1,HEALTY BEAUTY
+#EXTINF:-1 tvg-logo="",HEALTY BEAUTY
 http://202.80.222.130/000001/2/ch15010918423014569476/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1,MNC FASHION
+#EXTINF:-1 tvg-logo="",MNC FASHION
 http://202.80.222.130/000001/2/ch14041514205580055265/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1,HOME LIVING
+#EXTINF:-1 tvg-logo="",HOME LIVING
 http://202.80.222.130/000001/2/ch14121910140294885803/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1,EXTREME CHANNEL
+#EXTINF:-1 tvg-logo="",EXTREME CHANNEL
 http://202.80.222.130/000001/2/ch17112110144611208019/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1,INFOTRAINMENT
+#EXTINF:-1 tvg-logo="",INFOTRAINMENT
 http://202.80.222.130/000001/2/ch14041512001060787776/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1,FOOD TRAVEL
+#EXTINF:-1 tvg-logo="",FOOD TRAVEL
 http://202.80.222.130/000001/2/ch14041514171573823676/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1,IDX CHANNEL
+#EXTINF:-1 tvg-logo="",IDX CHANNEL
 http://202.80.222.130/000001/2/ch14042115424530214011/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1,COMEDY CHANNEL
+#EXTINF:-1 tvg-logo="",COMEDY CHANNEL
 http://202.80.222.130/000001/2/ch14061214064040168714/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1,GAMES CHANNEL
+#EXTINF:-1 tvg-logo="",GAMES CHANNEL
 http://202.80.222.130/000001/2/ch15092109552025062916/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1,MNC CHANNEL
+#EXTINF:-1 tvg-logo="",MNC CHANNEL
 http://202.80.222.130/000001/2/ch18040213194357388223/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1,MUSIC CHANNEL
+#EXTINF:-1 tvg-logo="",MUSIC CHANNEL
 http://202.80.222.130/000001/2/ch14041511582088062293/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1,HITS
+#EXTINF:-1 tvg-logo="",HITS
 http://202.80.222.130/000001/2/ch15010713414035158349/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1,ALJAZEERA
+#EXTINF:-1 tvg-logo="",ALJAZEERA
 http://202.80.222.130/000001/2/ch16061615334440670610/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1,RT NEWS
+#EXTINF:-1 tvg-logo="",RT NEWS
 http://202.80.222.130/000001/2/ch00000090990000001717/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1,FRANCE 24
+#EXTINF:-1 tvg-logo="",FRANCE 24
 http://202.80.222.130/000001/2/ch16062015274821614237/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1,DW CHANNEL
+#EXTINF:-1 tvg-logo="",DW CHANNEL
 http://202.80.222.130/000001/2/ch17092617422344791446/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1,TRT WORLD
+#EXTINF:-1 tvg-logo="",TRT WORLD
 http://202.80.222.130/000001/2/ch00000090990000001721/index.m3u8?virtualDomain=000001.live_hls.zte.com
