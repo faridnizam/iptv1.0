@@ -2,11 +2,17 @@
 #EXTINF:-1 tvg-logo="https://iptv.luxe/images/logo/channel/thumbs/1103c2eae40993564620d0326beedffc.png",TVRI
 http://202.80.222.130/000001/2/ch14041511560872104862/1000.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:-1 tvg-logo="https://iptv.luxe/images/logo/channel/thumbs/ea9d392f2db3aa7a2e9b2266c5503953.png",TV One
-http://202.80.222.130/000001/2/ch14061215030555428637/1000.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 tvg-logo="https://iptv.luxe/images/logo/channel/thumbs/0b31e022261adf9fc6ce82660ed452d1.png",ANTV
+http://202.80.222.130/000001/2/ch14061215034900095272/1000.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/c/c1/LogoMetroTVsince2010.svg/100px-LogoMetroTVsince2010.svg.png",Metro TV
-http://202.80.222.130/000001/2/ch14041511515576869807/1000.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 tvg-logo="https://iptv.luxe/images/logo/channel/thumbs/000e4be121ffecc35dac4fbafc901553.png",Indosiar
+http://202.80.222.130/000001/2/ch15051810235326945512/1000.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1 TV tvg-logo="https://iptv.luxe/images/logo/channel/thumbs/3cbcacce0280033198f2da98a2b4e753.png",Trans TV
+http://202.80.222.130/000001/2/ch14041511552652254306/1000.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1 tvg-logo="https://iptv.luxe/images/logo/channel/thumbs/ee30fd62da9ed2f3154a409abbfa357e.png",MNCTV
+http://202.80.222.130/000001/2/ch14041511111714365733/1000.m3u8?virtualDomain=000001.live_hls.zte.com
 
 #EXTINF:-1 tvg-logo="https://iptv.luxe/images/logo/channel/thumbs/900aeab81f03b096ae866649493f6c6e.png",RCTI
 http://202.80.222.130/000001/2/ch14041511532707866226/1000.m3u8?virtualDomain=000001.live_hls.zte.com
@@ -14,23 +20,17 @@ http://202.80.222.130/000001/2/ch14041511532707866226/1000.m3u8?virtualDomain=00
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/GTV_logo_%282017%29.png/320px-GTV_logo_%282017%29.png",GTV
 http://202.80.222.130/000001/2/ch14041511505498448705/1000.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:-1 tvg-logo="https://iptv.luxe/images/logo/channel/thumbs/ee30fd62da9ed2f3154a409abbfa357e.png",MNCTV
-http://202.80.222.130/000001/2/ch14041511111714365733/1000.m3u8?virtualDomain=000001.live_hls.zte.com
-
-#EXTINF:-1 tvg-logo="upload.wikimedia.org/wikipedia/id/thumb/0/09/INews.png/100px-INews.png",iNews
-http://202.80.222.130/000001/2/ch14041511541532132975/1000.m3u8?virtualDomain=000001.live_hls.zte.com
-
-#EXTINF:-1 tvg-logo="https://iptv.luxe/images/logo/channel/thumbs/0b31e022261adf9fc6ce82660ed452d1.png",ANTV
-http://202.80.222.130/000001/2/ch14061215034900095272/1000.m3u8?virtualDomain=000001.live_hls.zte.com
-
-#EXTINF:-1 tvg-logo="https://iptv.luxe/images/logo/channel/thumbs/000e4be121ffecc35dac4fbafc901553.png",Indosiar
-http://202.80.222.130/000001/2/ch15051810235326945512/1000.m3u8?virtualDomain=000001.live_hls.zte.com
-
-#EXTINF:-1 TV tvg-logo="https://iptv.luxe/images/logo/channel/thumbs/3cbcacce0280033198f2da98a2b4e753.png",Trans
-http://202.80.222.130/000001/2/ch14041511552652254306/1000.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 tvg-logo="https://iptv.luxe/images/logo/channel/thumbs/ea9d392f2db3aa7a2e9b2266c5503953.png",TV One
+http://202.80.222.130/000001/2/ch14061215030555428637/1000.m3u8?virtualDomain=000001.live_hls.zte.com
 
 #EXTINF:-1 tvg-logo="https://iptv.luxe/images/logo/channel/thumbs/8958551386d9326cfaab8bc165346bfb.png",Trans 7
 http://202.80.222.130/000001/2/ch14041511545447343123/1000.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/c/c1/LogoMetroTVsince2010.svg/100px-LogoMetroTVsince2010.svg.png",Metro TV
+http://202.80.222.130/000001/2/ch14041511515576869807/1000.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/0/09/INews.png/100px-INews.png",iNews
+http://202.80.222.130/000001/2/ch14041511541532132975/1000.m3u8?virtualDomain=000001.live_hls.zte.com
 
 #EXTINF:-1 tvg-logo="https://iptv.luxe/images/logo/channel/thumbs/70b442faf7651ffb07f62cf81fb677b2.png",SCTV
 http://202.80.222.130/000001/2/ch15010918464887721048/1000.m3u8?virtualDomain=000001.live_hls.zte.com
