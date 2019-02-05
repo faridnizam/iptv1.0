@@ -5,7 +5,7 @@ http://202.80.222.130/000001/2/ch14041511560872104862/1000.m3u8?virtualDomain=00
 #EXTINF:-1 tvg-logo="https://iptv.luxe/images/logo/channel/thumbs/ea9d392f2db3aa7a2e9b2266c5503953.png",TV One
 http://202.80.222.130/000001/2/ch14061215030555428637/1000.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:-1 tvg-logo="upload.wikimedia.org/wikipedia/id/thumb/c/c1/LogoMetroTVsince2010.svg/100px-LogoMetroTVsince2010.svg.png",Metro TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/c/c1/LogoMetroTVsince2010.svg/100px-LogoMetroTVsince2010.svg.png",Metro TV
 http://202.80.222.130/000001/2/ch14041511515576869807/1000.m3u8?virtualDomain=000001.live_hls.zte.com
 
 #EXTINF:-1 tvg-logo="https://iptv.luxe/images/logo/channel/thumbs/900aeab81f03b096ae866649493f6c6e.png",RCTI
@@ -41,7 +41,7 @@ http://202.80.222.130/000001/2/ch00000090990000001730/1000.m3u8?virtualDomain=00
 #EXTINF:-1 tvg-logo="upload.wikimedia.org/wikipedia/id/thumb/5/5a/Rajawali_Televisi.svg/100px-Rajawali_Televisi.svg.png",RTV
 http://202.80.222.130/000001/2/ch00000090990000001716/1000.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-6jUnSalRYvU/UiRR3ERIANI/AAAAAAAABhM/YIf1Nr9_VJg/s640/20101206120639!New_MetroTV_Logo_2010.png",JAK TV
+#EXTINF:-1 tvg-logo="",JAK TV
 http://202.80.222.130/000001/2/ch00000090990000001695/1000.m3u8?virtualDomain=000001.live_hls.zte.com
 
 #EXTINF:-1 tvg-logo="",Berita Satu
