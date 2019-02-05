@@ -17,6 +17,9 @@ http://202.80.222.130/000001/2/ch14041511111714365733/1000.m3u8?virtualDomain=00
 #EXTINF:-1 tvg-logo="https://iptv.luxe/images/logo/channel/thumbs/900aeab81f03b096ae866649493f6c6e.png",RCTI
 http://202.80.222.130/000001/2/ch14041511532707866226/1000.m3u8?virtualDomain=000001.live_hls.zte.com
 
+#EXTINF:-1 tvg-logo="https://iptv.luxe/images/logo/channel/thumbs/70b442faf7651ffb07f62cf81fb677b2.png",SCTV
+http://202.80.222.130/000001/2/ch15010918464887721048/1000.m3u8?virtualDomain=000001.live_hls.zte.com
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/GTV_logo_%282017%29.png/320px-GTV_logo_%282017%29.png",GTV
 http://202.80.222.130/000001/2/ch14041511505498448705/1000.m3u8?virtualDomain=000001.live_hls.zte.com
 
@@ -31,9 +34,6 @@ http://202.80.222.130/000001/2/ch14041511515576869807/1000.m3u8?virtualDomain=00
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/0/09/INews.png/100px-INews.png",iNews
 http://202.80.222.130/000001/2/ch14041511541532132975/1000.m3u8?virtualDomain=000001.live_hls.zte.com
-
-#EXTINF:-1 tvg-logo="https://iptv.luxe/images/logo/channel/thumbs/70b442faf7651ffb07f62cf81fb677b2.png",SCTV
-http://202.80.222.130/000001/2/ch15010918464887721048/1000.m3u8?virtualDomain=000001.live_hls.zte.com
 
 #EXTINF:-1 tvg-logo="https://iptv.luxe/images/logo/channel/thumbs/af27b0f197147cee7d7b34b47d6555ac.png",Kompas TV
 http://202.80.222.130/000001/2/ch00000090990000001730/1000.m3u8?virtualDomain=000001.live_hls.zte.com
@@ -61,4 +61,5 @@ http://202.80.222.130/000001/2/ch00000000000000001522/index.m3u8?virtualDomain=0
 
 #EXTINF:-1 tvg-logo="",DAAI TV
 http://202.80.222.130/000001/2/ch00000090990000001706/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
 
