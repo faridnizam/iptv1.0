@@ -41,10 +41,10 @@ http://202.80.222.130/000001/2/ch00000090990000001730/1000.m3u8?virtualDomain=00
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5a/Rajawali_Televisi.svg/100px-Rajawali_Televisi.svg.png" group-title="Indonesia",RTV
 http://202.80.222.130/000001/2/ch00000090990000001716/1000.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:-1 tvg-logo="https://iptv.luxe/images/logo/channel/thumbs/40fa73c9d0083043c6576dd2b40511e4.png" group-title="Indonesia",NET.
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/faridnizam/gamabar/master/Gambar/net..png" group-title="Indonesia",NET.
 http://202.80.222.130/000001/2/ch00000090990000001723/1000.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:-1 tvg-logo="https://onlivestreaming.me/wp-content/uploads/2018/12/nettv.jpg" group-title="Indonesia",NET. HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/faridnizam/gamabar/master/Gambar/net.hd.png" group-title="Indonesia",NET. HD
 http://boosstalive1-a.akamaihd.net/f894a6ebf56c4569bea516042afd1d55/ap-southeast-1/5664852414001/profile_0/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://jak-tv.com/upload/image/banner/logo/logo-jaktv-biru.png" group-title="Indonesia",JAK TV
