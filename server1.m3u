@@ -32,9 +32,6 @@ http://202.80.222.130/000001/2/ch14041511545447343123/1000.m3u8?virtualDomain=00
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/c/c1/LogoMetroTVsince2010.svg/100px-LogoMetroTVsince2010.svg.png" group-title="Indonesia",Metro TV
 http://202.80.222.130/000001/2/ch14041511515576869807/1000.m3u8?virtualDomain=000001.live_hls.zte.com
 
-##EXTINF:-1,METRO TV
-##http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/0/09/INews.png/100px-INews.png" group-title="Indonesia",iNews
 http://202.80.222.130/000001/2/ch14041511541532132975/1000.m3u8?virtualDomain=000001.live_hls.zte.com
 
@@ -67,10 +64,6 @@ http://202.80.222.130/000001/2/ch00000000000000001522/index.m3u8?virtualDomain=0
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/e/e3/DAAI_TV_Jakarta.png/200px-DAAI_TV_Jakarta.png" group-title="Indonesia",DAAI TV
 http://202.80.222.130/000001/2/ch00000090990000001706/index.m3u8?virtualDomain=000001.live_hls.zte.com
-
-##============================================================================================================
-                                           Random Channel Local
-##============================================================================================================
 
 #EXTINF:-1 tvg-logo="https://football-tribe.com/indonesia/wp-content/uploads/sites/10/2019/01/TVRI-Sport-HD.png" group-title="Indonesia",TVRI Sport
 http://210.210.155.35/session/d521fe72-f3e6-11e8-970f-9891b25868ec/qwr9ew/s/s48/01.m3u8
