@@ -1,53 +1,53 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://iptv.luxe/images/logo/channel/thumbs/1103c2eae40993564620d0326beedffc.png",TVRI
+#EXTINF:-1 tvg-logo="https://iptv.luxe/images/logo/channel/thumbs/1103c2eae40993564620d0326beedffc.png" group-title="Indonesia",TVRI
 http://202.80.222.130/000001/2/ch14041511560872104862/1000.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:-1 tvg-logo="https://iptv.luxe/images/logo/channel/thumbs/0b31e022261adf9fc6ce82660ed452d1.png",ANTV
+#EXTINF:-1 tvg-logo="https://iptv.luxe/images/logo/channel/thumbs/0b31e022261adf9fc6ce82660ed452d1.png" group-title="Indonesia",ANTV
 http://202.80.222.130/000001/2/ch14061215034900095272/1000.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:-1 tvg-logo="https://iptv.luxe/images/logo/channel/thumbs/000e4be121ffecc35dac4fbafc901553.png",Indosiar
+#EXTINF:-1 tvg-logo="https://iptv.luxe/images/logo/channel/thumbs/000e4be121ffecc35dac4fbafc901553.png" group-title="Indonesia",Indosiar
 http://202.80.222.130/000001/2/ch15051810235326945512/1000.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:-1 TV tvg-logo="https://iptv.luxe/images/logo/channel/thumbs/3cbcacce0280033198f2da98a2b4e753.png",Trans TV
+#EXTINF:-1 TV tvg-logo="https://iptv.luxe/images/logo/channel/thumbs/3cbcacce0280033198f2da98a2b4e753.png" group-title="Indonesia",Trans TV
 http://202.80.222.130/000001/2/ch14041511552652254306/1000.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:-1 tvg-logo="https://iptv.luxe/images/logo/channel/thumbs/ee30fd62da9ed2f3154a409abbfa357e.png",MNCTV
+#EXTINF:-1 tvg-logo="https://iptv.luxe/images/logo/channel/thumbs/ee30fd62da9ed2f3154a409abbfa357e.png" group-title="Indonesia",MNCTV
 http://202.80.222.130/000001/2/ch14041511111714365733/1000.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:-1 tvg-logo="https://iptv.luxe/images/logo/channel/thumbs/900aeab81f03b096ae866649493f6c6e.png",RCTI
+#EXTINF:-1 tvg-logo="https://iptv.luxe/images/logo/channel/thumbs/900aeab81f03b096ae866649493f6c6e.png" group-title="Indonesia",RCTI
 http://202.80.222.130/000001/2/ch14041511532707866226/1000.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:-1 tvg-logo="https://iptv.luxe/images/logo/channel/thumbs/70b442faf7651ffb07f62cf81fb677b2.png",SCTV
+#EXTINF:-1 tvg-logo="https://iptv.luxe/images/logo/channel/thumbs/70b442faf7651ffb07f62cf81fb677b2.png" group-title="Indonesia",SCTV
 http://202.80.222.130/000001/2/ch15010918464887721048/1000.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/GTV_logo_%282017%29.png/320px-GTV_logo_%282017%29.png",GTV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/GTV_logo_%282017%29.png/320px-GTV_logo_%282017%29.png" group-title="Indonesia",GTV
 http://202.80.222.130/000001/2/ch14041511505498448705/1000.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:-1 tvg-logo="https://iptv.luxe/images/logo/channel/thumbs/ea9d392f2db3aa7a2e9b2266c5503953.png",TV One
+#EXTINF:-1 tvg-logo="https://iptv.luxe/images/logo/channel/thumbs/ea9d392f2db3aa7a2e9b2266c5503953.png" group-title="Indonesia",TV One
 http://202.80.222.130/000001/2/ch14061215030555428637/1000.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:-1 tvg-logo="https://iptv.luxe/images/logo/channel/thumbs/8958551386d9326cfaab8bc165346bfb.png",Trans 7
+#EXTINF:-1 tvg-logo="https://iptv.luxe/images/logo/channel/thumbs/8958551386d9326cfaab8bc165346bfb.png" group-title="Indonesia",Trans 7
 http://202.80.222.130/000001/2/ch14041511545447343123/1000.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/c/c1/LogoMetroTVsince2010.svg/100px-LogoMetroTVsince2010.svg.png",Metro TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/c/c1/LogoMetroTVsince2010.svg/100px-LogoMetroTVsince2010.svg.png" group-title="Indonesia",Metro TV
 http://202.80.222.130/000001/2/ch14041511515576869807/1000.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/0/09/INews.png/100px-INews.png",iNews
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/0/09/INews.png/100px-INews.png" group-title="Indonesia",iNews
 http://202.80.222.130/000001/2/ch14041511541532132975/1000.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:-1 tvg-logo="https://iptv.luxe/images/logo/channel/thumbs/af27b0f197147cee7d7b34b47d6555ac.png",Kompas TV
+#EXTINF:-1 tvg-logo="https://iptv.luxe/images/logo/channel/thumbs/af27b0f197147cee7d7b34b47d6555ac.png" group-title="Indonesia",Kompas TV
 http://202.80.222.130/000001/2/ch00000090990000001730/1000.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5a/Rajawali_Televisi.svg/100px-Rajawali_Televisi.svg.png",RTV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5a/Rajawali_Televisi.svg/100px-Rajawali_Televisi.svg.png" group-title="Indonesia",RTV
 http://202.80.222.130/000001/2/ch00000090990000001716/1000.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:-1 tvg-logo="https://iptv.luxe/images/logo/channel/thumbs/40fa73c9d0083043c6576dd2b40511e4.png",NET
+#EXTINF:-1 tvg-logo="https://iptv.luxe/images/logo/channel/thumbs/40fa73c9d0083043c6576dd2b40511e4.png" group-title="Indonesia",NET
 http://202.80.222.130/000001/2/ch00000090990000001723/1000.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:-1 tvg-logo="",JAK TV
+#EXTINF:-1 tvg-logo="https://jak-tv.com/upload/image/banner/logo/logo-jaktv-biru.png" group-title="Indonesia",JAK TV
 http://202.80.222.130/000001/2/ch00000090990000001695/1000.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:-1 tvg-logo="",Berita Satu
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/8/8b/Logo_BeritaSatu_TV.png/120px-Logo_BeritaSatu_TV.png" group-title="Indonesia",Berita Satu
 http://202.80.222.130/000001/2/ch00000090990000001683/1000.m3u8?virtualDomain=000001.live_hls.zte.com
 
 #EXTINF:-1 tvg-logo="https://iptv.luxe/images/logo/channel/thumbs/e01949dd5646cf5a41b524ac1dbe6106.png" group-title="Indonesia",BALI TV
@@ -59,14 +59,14 @@ http://202.80.222.130/000001/2/ch00000090990000001731/1000.m3u8?virtualDomain=00
 #EXTINF:-1 tvg-logo="" group-title="Indonesia",TV9
 http://202.80.222.130/000001/2/ch00000000000000001522/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:-1 tvg-logo="" group-title="Indonesia",DAAI TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/e/e3/DAAI_TV_Jakarta.png/200px-DAAI_TV_Jakarta.png" group-title="Indonesia",DAAI TV
 http://202.80.222.130/000001/2/ch00000090990000001706/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
 ##============================================================================================================
                                            Random Channel Local
 ##============================================================================================================
 
-#EXTINF:-1 group-title="Indonesia",CTV BANTEN
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hXLskLH/ctv.png" group-title="Indonesia",CTV BANTEN
 http://103.23.201.170:1935/live/livestream/lihattv.m3u8
 
 
