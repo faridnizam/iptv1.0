@@ -32,6 +32,9 @@ http://202.80.222.130/000001/2/ch14041511545447343123/1000.m3u8?virtualDomain=00
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/c/c1/LogoMetroTVsince2010.svg/100px-LogoMetroTVsince2010.svg.png" group-title="Indonesia",Metro TV
 http://202.80.222.130/000001/2/ch14041511515576869807/1000.m3u8?virtualDomain=000001.live_hls.zte.com
 
+##EXTINF:-1,METRO TV
+##http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/0/09/INews.png/100px-INews.png" group-title="Indonesia",iNews
 http://202.80.222.130/000001/2/ch14041511541532132975/1000.m3u8?virtualDomain=000001.live_hls.zte.com
 
@@ -41,8 +44,11 @@ http://202.80.222.130/000001/2/ch00000090990000001730/1000.m3u8?virtualDomain=00
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5a/Rajawali_Televisi.svg/100px-Rajawali_Televisi.svg.png" group-title="Indonesia",RTV
 http://202.80.222.130/000001/2/ch00000090990000001716/1000.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:-1 tvg-logo="https://iptv.luxe/images/logo/channel/thumbs/40fa73c9d0083043c6576dd2b40511e4.png" group-title="Indonesia",NET
+#EXTINF:-1 tvg-logo="https://iptv.luxe/images/logo/channel/thumbs/40fa73c9d0083043c6576dd2b40511e4.png" group-title="Indonesia",NET.
 http://202.80.222.130/000001/2/ch00000090990000001723/1000.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1 tvg-logo="https://onlivestreaming.me/wp-content/uploads/2018/12/nettv.jpg" group-title="Indonesia",NET. HD
+http://boosstalive1-a.akamaihd.net/f894a6ebf56c4569bea516042afd1d55/ap-southeast-1/5664852414001/profile_0/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://jak-tv.com/upload/image/banner/logo/logo-jaktv-biru.png" group-title="Indonesia",JAK TV
 http://202.80.222.130/000001/2/ch00000090990000001695/1000.m3u8?virtualDomain=000001.live_hls.zte.com
@@ -66,10 +72,14 @@ http://202.80.222.130/000001/2/ch00000090990000001706/index.m3u8?virtualDomain=0
                                            Random Channel Local
 ##============================================================================================================
 
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/AAuE7mBTGpkozFje3p4l0PlMVE-SAWxGPzQn8qzG2g=s900-mo-c-c0xffffffff-rj-k-no" group-title="Indonesia",TVRI Sport
+#EXTINF:-1 tvg-logo="https://football-tribe.com/indonesia/wp-content/uploads/sites/10/2019/01/TVRI-Sport-HD.png" group-title="Indonesia",TVRI Sport
 http://210.210.155.35/session/d521fe72-f3e6-11e8-970f-9891b25868ec/qwr9ew/s/s48/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hXLskLH/ctv.png" group-title="Indonesia",CTV BANTEN
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8xnfQBJ/cnbc.jpg" group-title="Indonesia",CNBC Indonesia
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w31589757_b384000_sleng.m3u8?_=1547207286697
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hXLskLH/ctv.png" group-title="Indonesia",CTV Banten
 http://103.23.201.170:1935/live/livestream/lihattv.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Ochannel.png/200px-Ochannel.png",O Channel
+http://edge.linknetott.swiftserve.com/channelgroup4/cg409production/ch26/02.m3u8
