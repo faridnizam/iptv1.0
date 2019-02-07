@@ -50,16 +50,23 @@ http://202.80.222.130/000001/2/ch00000090990000001695/1000.m3u8?virtualDomain=00
 #EXTINF:-1 tvg-logo="",Berita Satu
 http://202.80.222.130/000001/2/ch00000090990000001683/1000.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:-1 tvg-logo="https://iptv.luxe/images/logo/channel/thumbs/e01949dd5646cf5a41b524ac1dbe6106.png",BALI TV
+#EXTINF:-1 tvg-logo="https://iptv.luxe/images/logo/channel/thumbs/e01949dd5646cf5a41b524ac1dbe6106.png" group-title="Indonesia",BALI TV
 http://202.80.222.130/000001/2/ch00000090990000001729/1000.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:-1 tvg-logo="https://iptv.luxe/images/logo/channel/thumbs/c61ed732b4f9bafe14de9fe1e6eba245.png",JTV
+#EXTINF:-1 tvg-logo="https://iptv.luxe/images/logo/channel/thumbs/c61ed732b4f9bafe14de9fe1e6eba245.png" group-title="Indonesia",JTV
 http://202.80.222.130/000001/2/ch00000090990000001731/1000.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:-1 tvg-logo="",TV9
+#EXTINF:-1 tvg-logo="" group-title="Indonesia",TV9
 http://202.80.222.130/000001/2/ch00000000000000001522/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:-1 tvg-logo="",DAAI TV
+#EXTINF:-1 tvg-logo="" group-title="Indonesia",DAAI TV
 http://202.80.222.130/000001/2/ch00000090990000001706/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+##============================================================================================================
+                                           Random Channel Local
+##============================================================================================================
+
+#EXTINF:-1 group-title="Indonesia",CTV BANTEN
+http://103.23.201.170:1935/live/livestream/lihattv.m3u8
 
 
