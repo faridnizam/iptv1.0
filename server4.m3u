@@ -1,1 +1,418 @@
+#EXTM3U
+#EXTINF:-1,NTV7
+http://livecdn.long.tv:8123/live/9C5B434BB49141119F38AF7FDD4B6D83/playlist.m3u8?sid=605776afa34846cea3399c048e4d1e18
 
+#EXTINF:-1,OKEY
+http://rtm-live.glueapi.io/smil:rtmch003.smil/chunklist_b1064000_sleng.m3u8
+
+#EXTINF:-1,ASTRO HELLO
+http://playbackn20.aotg-video.astro.com.my:80/CH2/master_HELLO_8_05.m3u8
+
+#EXTINF:-1,DUNIA SINEMA
+http://195.181.170.48:25461/live/amachongz@gmail.com/uRXMe6NlG0/29632?token=GkQJUBUMGwpAUwMCUQkHV11SVAAIAwIGAQxbAQJTVwRQUQBSA1AKUlUQTkQVREIABV08XlRDCgYLD1dSHRVBRQQUPlgCRgMSWgBQUVIIEklGRApaVUMKBQcNUVoEAQEOUUpDQQ8AGwoMRw4KShJVHRBVEVlRDW9QV08LAFQVDlgUCg0dRAtXbwZXDwcIVBJfRgFBGxIIQ0QQA0AgWV5aV0ErDlMPCFwQIV0PCxNeWQYFRApYXhIQd11LEgxDVkBfDghDHUQGUEQQUxYDRApeEAhcTxVTDkVaRksbQQsVd3hDSkNUHhBcXhFbDQhEChIRFxJPFVkSb0ZXShYRVFZZUxNEWxNWRhUSD1MaOQVfXgsBUxdeXw9DFggbU0EdFVlZDw8VXhQ7SVkGEFgIE1xcGA
+
+#EXTINF:-1,FOX SPORT 2
+http://195.181.170.48:25461/live/amachongz@gmail.com/uRXMe6NlG0/29622?token=GkQJUBUMGwpAUwMCUQkHV11SVAAIAwIGAQxbAQJTVwRQUQBSA1AKUlUQTkQVREIABV08XlRDCgYLD1dSHRVBRQQUPlgCRgMSWgBQUVIIEklGRApaVUMKBQcNUVoEAQEOUUpDQQ8AGwoMRw4KShJVHRBVEVlRDW9QV08LAFQVDlgUCg0dRAtXbwZXDwcIVBJfRgFBGxIIQ0QQA0AgWV5aV0ErDlMPCFwQIV0PCxNeWQYFRApYXhIQd11LEgxDVkBfDghDHUQGUEQQUxYDRApeEAhcTxVTDkVaRksbQQsVd3hDSkNUHhBcXhFbDQhEChIRFxJPFVkSb0ZXShYRVFZZUxNEWxNWRhUSD1MaOQVfXgsBUxdeXw9DFggbU0EdFVlZDw8VXhQ7SVkGEFgIE1xcGA
+
+#EXTINF:-1,FOX SPORT 3
+http://195.181.170.48:25461/live/amachongz@gmail.com/uRXMe6NlG0/29621?token=GkQJUBUMGwpAUwMCUQkHV11SVAAIAwIGAQxbAQJTVwRQUQBSA1AKUlUQTkQVREIABV08XlRDCgYLD1dSHRVBRQQUPlgCRgMSWgBQUVIIEklGRApaVUMKBQcNUVoEAQEOUUpDQQ8AGwoMRw4KShJVHRBVEVlRDW9QV08LAFQVDlgUCg0dRAtXbwZXDwcIVBJfRgFBGxIIQ0QQA0AgWV5aV0ErDlMPCFwQIV0PCxNeWQYFRApYXhIQd11LEgxDVkBfDghDHUQGUEQQUxYDRApeEAhcTxVTDkVaRksbQQsVd3hDSkNUHhBcXhFbDQhEChIRFxJPFVkSb0ZXShYRVFZZUxNEWxNWRhUSD1MaOQVfXgsBUxdeXw9DFggbU0EdFVlZDw8VXhQ7SVkGEFgIE1xcGA
+
+#EXTINF:-1,CHELSEA TV
+http://195.181.170.48:25461/live/amachongz@gmail.com/uRXMe6NlG0/29690?token=GkQJUBUMGwpAUwMCUQkHV11SVAAIAwIGAQxbAQJTVwRQUQBSA1AKUlUQTkQVREIABV08XlRDCgYLD1dSHRVBRQQUPlgCRgMSWgBQUVIIEklGRApaVUMKBQcNUVoEAQEOUUpDQQ8AGwoMRw4KShJVHRBVEVlRDW9QV08LAFQVDlgUCg0dRAtXbwZXDwcIVBJfRgFBGxIIQ0QQA0AgWV5aV0ErDlMPCFwQIV0PCxNeWQYFRApYXhIQd11LEgxDVkBfDghDHUQGUEQQUxYDRApeEAhcTxVTDkVaRksbQQsVd3hDSkNUHhBcXhFbDQhEChIRFxJPFVkSb0ZXShYRVFZZUxNEWxNWRhUSD1MaOQVfXgsBUxdeXw9DFggbU0EdFVlZDw8VXhQ7SVkGEFgIE1xcGA
+
+#EXTINF:-1,ANIMAX
+http://195.181.170.48:25461/live/amachongz@gmail.com/uRXMe6NlG0/29667?token=GkQJUBUMGwpAUwMCUQkHV11SVAAIAwIGAQxbAQJTVwRQUQBSA1AKUlUQTkQVREIABV08XlRDCgYLD1dSHRVBRQQUPlgCRgMSWgBQUVIIEklGRApaVUMKBQcNUVoEAQEOUUpDQQ8AGwoMRw4KShJVHRBVEVlRDW9QV08LAFQVDlgUCg0dRAtXbwZXDwcIVBJfRgFBGxIIQ0QQA0AgWV5aV0ErDlMPCFwQIV0PCxNeWQYFRApYXhIQd11LEgxDVkBfDghDHUQGUEQQUxYDRApeEAhcTxVTDkVaRksbQQsVd3hDSkNUHhBcXhFbDQhEChIRFxJPFVkSb0ZXShYRVFZZUxNEWxNWRhUSD1MaOQVfXgsBUxdeXw9DFggbU0EdFVlZDw8VXhQ7SVkGEFgIE1xcGA
+
+#EXTINF:-1,CARTOON NETWORK
+http://195.181.170.48:25461/live/amachongz@gmail.com/uRXMe6NlG0/29639?token=GkQJUBUMGwpAUwMCUQkHV11SVAAIAwIGAQxbAQJTVwRQUQBSA1AKUlUQTkQVREIABV08XlRDCgYLD1dSHRVBRQQUPlgCRgMSWgBQUVIIEklGRApaVUMKBQcNUVoEAQEOUUpDQQ8AGwoMRw4KShJVHRBVEVlRDW9QV08LAFQVDlgUCg0dRAtXbwZXDwcIVBJfRgFBGxIIQ0QQA0AgWV5aV0ErDlMPCFwQIV0PCxNeWQYFRApYXhIQd11LEgxDVkBfDghDHUQGUEQQUxYDRApeEAhcTxVTDkVaRksbQQsVd3hDSkNUHhBcXhFbDQhEChIRFxJPFVkSb0ZXShYRVFZZUxNEWxNWRhUSD1MaOQVfXgsBUxdeXw9DFggbU0EdFVlZDw8VXhQ7SVkGEFgIE1xcGA
+
+#EXTINF:-1,CELESTIAL MOVIE
+http://195.181.170.48:25461/live/amachongz@gmail.com/uRXMe6NlG0/29638?token=GkQJUBUMGwpAUwMCUQkHV11SVAAIAwIGAQxbAQJTVwRQUQBSA1AKUlUQTkQVREIABV08XlRDCgYLD1dSHRVBRQQUPlgCRgMSWgBQUVIIEklGRApaVUMKBQcNUVoEAQEOUUpDQQ8AGwoMRw4KShJVHRBVEVlRDW9QV08LAFQVDlgUCg0dRAtXbwZXDwcIVBJfRgFBGxIIQ0QQA0AgWV5aV0ErDlMPCFwQIV0PCxNeWQYFRApYXhIQd11LEgxDVkBfDghDHUQGUEQQUxYDRApeEAhcTxVTDkVaRksbQQsVd3hDSkNUHhBcXhFbDQhEChIRFxJPFVkSb0ZXShYRVFZZUxNEWxNWRhUSD1MaOQVfXgsBUxdeXw9DFggbU0EdFVlZDw8VXhQ7SVkGEFgIE1xcGA
+
+#EXTINF:-1,MTV
+http://195.181.170.48:25461/live/amachongz@gmail.com/uRXMe6NlG0/29611?token=GkQJUBUMGwpAUwMCUQkHV11SVAAIAwIGAQxbAQJTVwRQUQBSA1AKUlUQTkQVREIABV08XlRDCgYLD1dSHRVBRQQUPlgCRgMSWgBQUVIIEklGRApaVUMKBQcNUVoEAQEOUUpDQQ8AGwoMRw4KShJVHRBVEVlRDW9QV08LAFQVDlgUCg0dRAtXbwZXDwcIVBJfRgFBGxIIQ0QQA0AgWV5aV0ErDlMPCFwQIV0PCxNeWQYFRApYXhIQd11LEgxDVkBfDghDHUQGUEQQUxYDRApeEAhcTxVTDkVaRksbQQsVd3hDSkNUHhBcXhFbDQhEChIRFxJPFVkSb0ZXShYRVFZZUxNEWxNWRhUSD1MaOQVfXgsBUxdeXw9DFggbU0EdFVlZDw8VXhQ7SVkGEFgIE1xcGA
+
+#EXTINF:-1,FOX
+http://195.181.170.48:25461/live/amachongz@gmail.com/uRXMe6NlG0/29620?token=GkQJUBUMGwpAUwMCUQkHV11SVAAIAwIGAQxbAQJTVwRQUQBSA1AKUlUQTkQVREIABV08XlRDCgYLD1dSHRVBRQQUPlgCRgMSWgBQUVIIEklGRApaVUMKBQcNUVoEAQEOUUpDQQ8AGwoMRw4KShJVHRBVEVlRDW9QV08LAFQVDlgUCg0dRAtXbwZXDwcIVBJfRgFBGxIIQ0QQA0AgWV5aV0ErDlMPCFwQIV0PCxNeWQYFRApYXhIQd11LEgxDVkBfDghDHUQGUEQQUxYDRApeEAhcTxVTDkVaRksbQQsVd3hDSkNUHhBcXhFbDQhEChIRFxJPFVkSb0ZXShYRVFZZUxNEWxNWRhUSD1MaOQVfXgsBUxdeXw9DFggbU0EdFVlZDw8VXhQ7SVkGEFgIE1xcGA
+
+#EXTINF:-1,FOX MOVIE
+http://195.181.170.48:25461/live/amachongz@gmail.com/uRXMe6NlG0/29624?token=GkQJUBUMGwpAUwMCUQkHV11SVAAIAwIGAQxbAQJTVwRQUQBSA1AKUlUQTkQVREIABV08XlRDCgYLD1dSHRVBRQQUPlgCRgMSWgBQUVIIEklGRApaVUMKBQcNUVoEAQEOUUpDQQ8AGwoMRw4KShJVHRBVEVlRDW9QV08LAFQVDlgUCg0dRAtXbwZXDwcIVBJfRgFBGxIIQ0QQA0AgWV5aV0ErDlMPCFwQIV0PCxNeWQYFRApYXhIQd11LEgxDVkBfDghDHUQGUEQQUxYDRApeEAhcTxVTDkVaRksbQQsVd3hDSkNUHhBcXhFbDQhEChIRFxJPFVkSb0ZXShYRVFZZUxNEWxNWRhUSD1MaOQVfXgsBUxdeXw9DFggbU0EdFVlZDw8VXhQ7SVkGEFgIE1xcGA
+
+#EXTINF:-1,FOX LIFE
+http://195.181.170.48:25461/live/amachongz@gmail.com/uRXMe6NlG0/29625?token=GkQJUBUMGwpAUwMCUQkHV11SVAAIAwIGAQxbAQJTVwRQUQBSA1AKUlUQTkQVREIABV08XlRDCgYLD1dSHRVBRQQUPlgCRgMSWgBQUVIIEklGRApaVUMKBQcNUVoEAQEOUUpDQQ8AGwoMRw4KShJVHRBVEVlRDW9QV08LAFQVDlgUCg0dRAtXbwZXDwcIVBJfRgFBGxIIQ0QQA0AgWV5aV0ErDlMPCFwQIV0PCxNeWQYFRApYXhIQd11LEgxDVkBfDghDHUQGUEQQUxYDRApeEAhcTxVTDkVaRksbQQsVd3hDSkNUHhBcXhFbDQhEChIRFxJPFVkSb0ZXShYRVFZZUxNEWxNWRhUSD1MaOQVfXgsBUxdeXw9DFggbU0EdFVlZDw8VXhQ7SVkGEFgIE1xcGA
+
+#EXTINF:-1,WARNER
+http://195.181.170.48:25461/live/amachongz@gmail.com/uRXMe6NlG0/29588?token=GkQJUBUMGwpAUwMCUQkHV11SVAAIAwIGAQxbAQJTVwRQUQBSA1AKUlUQTkQVREIABV08XlRDCgYLD1dSHRVBRQQUPlgCRgMSWgBQUVIIEklGRApaVUMKBQcNUVoEAQEOUUpDQQ8AGwoMRw4KShJVHRBVEVlRDW9QV08LAFQVDlgUCg0dRAtXbwZXDwcIVBJfRgFBGxIIQ0QQA0AgWV5aV0ErDlMPCFwQIV0PCxNeWQYFRApYXhIQd11LEgxDVkBfDghDHUQGUEQQUxYDRApeEAhcTxVTDkVaRksbQQsVd3hDSkNUHhBcXhFbDQhEChIRFxJPFVkSb0ZXShYRVFZZUxNEWxNWRhUSD1MaOQVfXgsBUxdeXw9DFggbU0EdFVlZDw8VXhQ7SVkGEFgIE1xcGA
+
+#EXTINF:-1,DREAM WORKS
+http://195.181.170.48:25461/live/amachongz@gmail.com/uRXMe6NlG0/29670?token=GkQJUBUMGwpAUwMCUQkHV11SVAAIAwIGAQxbAQJTVwRQUQBSA1AKUlUQTkQVREIABV08XlRDCgYLD1dSHRVBRQQUPlgCRgMSWgBQUVIIEklGRApaVUMKBQcNUVoEAQEOUUpDQQ8AGwoMRw4KShJVHRBVEVlRDW9QV08LAFQVDlgUCg0dRAtXbwZXDwcIVBJfRgFBGxIIQ0QQA0AgWV5aV0ErDlMPCFwQIV0PCxNeWQYFRApYXhIQd11LEgxDVkBfDghDHUQGUEQQUxYDRApeEAhcTxVTDkVaRksbQQsVd3hDSkNUHhBcXhFbDQhEChIRFxJPFVkSb0ZXShYRVFZZUxNEWxNWRhUSD1MaOQVfXgsBUxdeXw9DFggbU0EdFVlZDw8VXhQ7SVkGEFgIE1xcGA
+
+#EXTINF:-1,TRAVEL CHANNEL
+http://195.181.170.48:25461/live/amachongz@gmail.com/uRXMe6NlG0/29593?token=GkQJUBUMGwpAUwMCUQkHV11SVAAIAwIGAQxbAQJTVwRQUQBSA1AKUlUQTkQVREIABV08XlRDCgYLD1dSHRVBRQQUPlgCRgMSWgBQUVIIEklGRApaVUMKBQcNUVoEAQEOUUpDQQ8AGwoMRw4KShJVHRBVEVlRDW9QV08LAFQVDlgUCg0dRAtXbwZXDwcIVBJfRgFBGxIIQ0QQA0AgWV5aV0ErDlMPCFwQIV0PCxNeWQYFRApYXhIQd11LEgxDVkBfDghDHUQGUEQQUxYDRApeEAhcTxVTDkVaRksbQQsVd3hDSkNUHhBcXhFbDQhEChIRFxJPFVkSb0ZXShYRVFZZUxNEWxNWRhUSD1MaOQVfXgsBUxdeXw9DFggbU0EdFVlZDw8VXhQ7SVkGEFgIE1xcGA
+
+#EXTINF:-1,SONY SETMAX
+http://195.181.170.48:25461/live/amachongz@gmail.com/uRXMe6NlG0/29672?token=GkQJUBUMGwpAUwMCUQkHV11SVAAIAwIGAQxbAQJTVwRQUQBSA1AKUlUQTkQVREIABV08XlRDCgYLD1dSHRVBRQQUPlgCRgMSWgBQUVIIEklGRApaVUMKBQcNUVoEAQEOUUpDQQ8AGwoMRw4KShJVHRBVEVlRDW9QV08LAFQVDlgUCg0dRAtXbwZXDwcIVBJfRgFBGxIIQ0QQA0AgWV5aV0ErDlMPCFwQIV0PCxNeWQYFRApYXhIQd11LEgxDVkBfDghDHUQGUEQQUxYDRApeEAhcTxVTDkVaRksbQQsVd3hDSkNUHhBcXhFbDQhEChIRFxJPFVkSb0ZXShYRVFZZUxNEWxNWRhUSD1MaOQVfXgsBUxdeXw9DFggbU0EdFVlZDw8VXhQ7SVkGEFgIE1xcGA
+
+#EXTINF:-1,WWE
+http://195.181.170.48:25461/live/amachongz@gmail.com/uRXMe6NlG0/29587?token=GkQJUBUMGwpAUwMCUQkHV11SVAAIAwIGAQxbAQJTVwRQUQBSA1AKUlUQTkQVREIABV08XlRDCgYLD1dSHRVBRQQUPlgCRgMSWgBQUVIIEklGRApaVUMKBQcNUVoEAQEOUUpDQQ8AGwoMRw4KShJVHRBVEVlRDW9QV08LAFQVDlgUCg0dRAtXbwZXDwcIVBJfRgFBGxIIQ0QQA0AgWV5aV0ErDlMPCFwQIV0PCxNeWQYFRApYXhIQd11LEgxDVkBfDghDHUQGUEQQUxYDRApeEAhcTxVTDkVaRksbQQsVd3hDSkNUHhBcXhFbDQhEChIRFxJPFVkSb0ZXShYRVFZZUxNEWxNWRhUSD1MaOQVfXgsBUxdeXw9DFggbU0EdFVlZDw8VXhQ7SVkGEFgIE1xcGA
+
+=================================================================================================
+										Penting
+=================================================================================================
+
+#EXTINF:-1,ANIMAL PLANET
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch31)/index.m3u8
+
+#EXTINF:-1,ASIAN FOOD CHANNEL
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch76)/index.m3u8
+
+#EXTINF:-1,CARTOON NETWORK
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch103)/index.m3u8
+
+#EXTINF:-1,DISCOVERY CHANNEL
+http://edge.linknetott.swiftserve.com/channelgroup1/cg013production/ch29/02.m3u8
+
+#EXTINF:-1,DISNEY JUNIOR
+http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
+
+#EXTINF:-1,eGG NETWORK
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch319)/index.m3u8
+
+#EXTINF:-1,FOODIE
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:foodiee/playlist.m3u8
+
+#EXTINF:-1,FOX
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch328)/index.m3u8
+
+#EXTINF:-1,FOX ACTION MOVIES
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch312)/index.m3u8
+
+#EXTINF:-1,FOX CRIME HD
+http://edge.linknetott.swiftserve.com/channelgroup2/cg210production/ch329/02.m3u8
+
+#EXTINF:-1,FOX FAMILIY MOVIES
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch331)/index.m3u8
+
+#EXTINF:-1,FOX LIFE
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch327)/index.m3u8
+
+#EXTINF:-1,FOX MOVIES
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch309)/index.m3u8
+
+#EXTINF:-1,GTV
+http://202.80.222.171/000001/2/ch14041511505498448705/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1,HISTORY CHANNEL
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch45)/index.m3u8
+
+#EXTINF:-1,iNEWS TV
+http://202.80.222.175/000001/2/ch14041511541532132975/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1,JAK TV
+http://202.80.222.171/000001/2/ch00000090990000001695/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1,J'GO
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8
+
+#EXTINF:-1,KBS WORLD
+http://edge.linknetott.swiftserve.com/channelgroup5/cg542production/ch262/03.m3u8
+
+#EXTINF:-1,LIFETIME
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch155)/index.m3u8
+
+#EXTINF:-1,LOVE NATURE 4K
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch368)/Stream(01)/index.m3u8
+
+#EXTINF:-1,MUTV
+https://d1wgyhp9evqv7n.cloudfront.net/hls/mutvpcweb/04.m3u8
+
+#EXTINF:-1,NAT GEO CHANEL
+http://edge.linknetott.swiftserve.com/channelgroup1/cg015production/ch38/02.m3u8
+
+#EXTINF:-1,NAT GEO WILD
+http://edge.linknetott.swiftserve.com/channelgroup1/cg014production/ch39/02.m3u8
+
+#EXTINF:-1,tvN HD
+http://edge.linknetott.swiftserve.com/channelgroup4/cg404production/ch339/02.m3u8
+
+#EXTINF:-1,Waku Waku JAPAN
+http://edge.linknetott.swiftserve.com/channelgroup5/cg529production/ch340/02.m3u8
+
+#EXTINF:-1,EUROSPORT
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch21)/index.m3u8
+
+#EXTINF:-1,FOX SPORTS
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch157)/index.m3u8
+
+#EXTINF:-1,FOX SPORTS 2
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch314)/index.m3u8
+
+#EXTINF:-1,FOX SPORTS 3
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch315)/index.m3u8
+
+#EXTINF:-1,NBCSN server 2
+http://addonfreak.com:8080/live/WHMCSMAG:WHMCS:30956/Vd866k3kSv/1785.ts
+
+#EXTINF:-1,SETANTA SPORTS
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch44)/index.m3u8
+
+#EXTINF:-1,Bein-Sport-News
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/10.ts
+
+#EXTINF:-1,BEIN SPORTS 1
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/11.ts
+
+#EXTINF:-1,BEIN SPORTS 2
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/12.ts
+
+#EXTINF:-1,BEIN SPORTS 4
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/14.ts
+
+#EXTINF:-1,BEIN SPORTS 5
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/15.ts
+
+#EXTINF:-1,BEIN SPORTS 6
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/16.ts
+
+#EXTINF:-1,BEIN SPORTS 8
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/18.ts
+
+#EXTINF:-1,BEIN SPORTS 7
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/17.ts
+
+#EXTINF:-1,BEIN SPORTS 9
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/19.ts
+
+#EXTINF:-1,BEIN SPORTS 10
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/20.ts
+
+#EXTINF:-1,BEIN MOVIES 4 HD
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/31.ts
+
+#EXTINF:-1,Aldafra
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/189.ts
+
+#EXTINF:-1,外RAI MOVIE
+http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
+
+#EXTINF:-1,外HBO
+http://161.0.157.38/PLTV/88888888/224/3221226127/index.m3u8
+
+#EXTINF:-1,外HBO 2
+http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8?fluxustv.m3u8
+
+#EXTINF:-1,外HBO 3
+http://87.246.0.155:5286/tv_HBO_3
+
+#EXTINF:-1,外CINEMAX
+http://87.246.0.155:5286/tv_Cinemax_2
+
+#EXTINF:-1,外SONY MOVIE
+http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_1080_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1,外FOX MOVIES PREMIUM*
+http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8
+
+#EXTINF:-1,外FOX MOVIES
+http://streaming.i-sat.tv:8081/livestream/fox/playlist.m3u8
+
+#EXTINF:-1,外FOX MOVIES COMEDY
+http://161.0.157.9/PLTV/88888888/224/3221226800/03.m3u8
+
+#EXTINF:-1,外CNN*
+http://161.0.157.7/PLTV/88888888/224/3221226781/index.m3u8
+
+#EXTINF:-1,外SKY NEWS HD
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
+
+#EXTINF:-1,外MTV音乐台1
+http://92.249.129.152/stream/1music.m3u8
+
+#EXTINF:-1,外MTV音乐台2
+http://wow01.105.net:1935/live/rmc1/livestream.m3u8
+
+#EXTINF:-1,外MTV HD德国
+http://de1se01.v2beat.live/playlist.m3u8
+
+#EXTINF:-1,外MTV HD法国
+http://5.196.138.6:1935/live/nrjbelgique/chunklist_w1099779633.m3u8
+
+#EXTINF:-1,体纬来体育HD
+http://59.120.242.104:9000/live/live12.m3u8
+
+#EXTINF:-1,港片电影轮播1
+http://dlhls.cdn.zhanqi.tv/zqlive/35349_iXsXw.m3u8
+
+#EXTINF:-1,港片电影轮播2
+http://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8
+
+#EXTINF:-1,港片电影轮播3
+http://aldirect.hls.huya.com/huyalive/28466698-2689659358-11551998979990355968-2789274580-10057-A-0-1_1200.m3u8
+
+#EXTINF:-1,港好莱电影轮播 1
+http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
+
+#EXTINF:-1,港好莱电影轮播 2
+http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
+
+#EXTINF:-1,港好莱电影轮播 3
+http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
+
+#EXTINF:-1,港好莱坞六人行/老友记
+http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
+
+#EXTINF:-1,港凤凰香港 慢
+http://live.italkdd.com/cds160/hls/channel016/channel016_2000.m3u8
+
+#EXTINF:-1,港凤凰美洲 慢
+http://live.italkdd.com/cds160/hls/channel001/channel001_2000.m3u8
+
+#EXTINF:-1,台星卫电影台HD
+http://59.120.242.104:9000/live/live10.m3u8
+
+#EXTINF:-1,台美亚电影台HD
+http://59.120.242.104:9000/live/live2.m3u8
+
+#EXTINF:-1,台卫视西片台HD
+http://59.120.242.104:9000/live/live1.m3u8
+
+#EXTINF:-1,台民视新闻HD
+http://210.61.56.23/hls/ftvtv/index.m3u8
+
+#EXTINF:-1,台中天新闻HD
+http://59.120.242.104:9000/live/live4.m3u8
+
+#EXTINF:-1,台三立新闻HD
+http://60.199.188.61/HLS/WG_ETTV-N/index.m3u8
+
+#EXTINF:-1,台年代新闻HD
+http://59.120.242.104:9000/live/live3.m3u8
+
+#EXTINF:-1,台壹新闻HD
+http://59.120.242.104:9000/live/live8.m3u8
+
+#EXTINF:-1,台TVBS新闻台
+http://60.199.188.61/HLS/WG_TVBS-N/02.m3u8
+
+#EXTINF:-1,台华视资讯台
+http://live.italkdd.com/cds160/hls/channel005/channel005.m3u8
+
+#EXTINF:-1,台东森美洲 慢
+http://live.italkdd.com/cds160/hls/channel020/channel020_2000.m3u8
+
+#EXTINF:-1,台台视新闻
+http://live.italkdd.com/cds160/hls/channel006/channel006_2000.m3u8
+
+#EXTINF:-1,台亚洲旅游
+http://live.italkdd.com/cds160/hls/channel007/channel007_2000.m3u8
+
+#EXTINF:-1,台民视新闻2
+http://live.italkdd.com/cds160/hls/channel012/channel012_2000.m3u8
+
+#EXTINF:-1,台MIAO MI
+https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8
+
+#EXTINF:-1,台纬来日本HD
+http://59.120.242.104:9000/live/live11.m3u8
+
+#EXTINF:-1,台-GoodTVHD2
+http://live.streamingfast.net/osmflivech3.m3u8
+
+#EXTINF:-1,台-GoodTVHD
+http://live.streamingfast.net/osmflivech8.m3u8
+
+#EXTINF:-1,台-GoodTV1
+http://live.streamingfast.net/osmflivech1.m3u8
+
+#EXTINF:-1,台-GoodTV2
+http://live.streamingfast.net/osmflivech2.m3u8
+
+#EXTINF:-1,台 周星弛电影台HD
+http://aldirect.hls.huya.com/huyalive/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1_1200.m3u8
+
+#EXTINF:-1,日本WOWOW MOVIES
+http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220279
+
+#EXTINF:-1,日本NTV News24
+http://www.news24.jp/livestream/index.m3u8
+
+#EXTINF:-1,日本Shop Channel HD
+http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
+
+#EXTINF:-1,日本Japanet Channel DX
+http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_600.m3u8
+
+#EXTINF:-1,韩Chosun HD
+http://live.chosun.gscdn.com/live/tvchosun1.stream/playlist.m3u8
+
+#EXTINF:-1,韩Sony One HD3
+http://195.181.170.48:25461/nurcholism22@gmail.com/0831zssVb0/29596?token=GkQJUBUMGwpAUwMCUQkHV11SVAAIAwIGAQxbAQJTVwRQUQBSA1AKUlUQTkQVREIABV08XlRDCgYLD1dSHRVBRQQUPlgCRgMSWgBQUVIIEklGRApaVUMKBQcNUVoEAQEOUUpDQQ8AGwoMRw4KShJVHRBVEVlRDW9QV08LAFQVDlgUCg0dRAtXbwZXDwcIVBJfRgFBGxIIQ0QQA0AgWV5aV0ErDlMPCFwQIV0PCxNeWQYFRApYXhIQd11LEgxDVkBfDghDHUQGUEQQUxYDRApeEAhcTxVTDkVaRksbQQsVd3hDSkNUHhBcXhFbDQhEChIRFxJPFVkSb0ZXShYRVFZZUxNEWxNWRhUSD1MaOQVfXgsBUxdeXw9DFggbU0EdFVlZDw8VXhQ7SVkGEFgIE1xcGA==
+
+#EXTINF:-1,韩Arirang South Korea HD
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+
+#EXTINF:-1,韩ktv
+http://218.38.152.69:1935/da_live/72136989/mp4:ch001/playlist.m3u8
+
+#EXTINF:-1,澳亚卫视
+http://stream.mastvnet.com/MASTV/sd/live.m3u8
+
+#EXTINF:-1,澳门卫视
+http://live4.tdm.com.mo:80/ch3/_definst_//ch3.live/playlist.m3u8
+
+#EXTINF:-1,澳门资讯
+http://live4.tdm.com.mo/ch5/_definst_/info_ch5.live/playlist.m3u8
+
+#EXTINF:-1,内a湖南卫视HD
+http://ivi.bupt.edu.cn/hls/hunanhd.m3u8
+
+#EXTINF:-1,内a東方卫视HD
+http://ivi.bupt.edu.cn/hls/dfhd.m3u8
+
+#EXTINF:-1,内a江蘇卫视HD
+http://ivi.bupt.edu.cn/hls/jshd.m3u8
+
+#EXTINF:-1,内北京卫视HD
+http://ivi.bupt.edu.cn/hls/btv1hd.m3u8
+
+#EXTINF:-1,内安徽卫视HD
+http://ivi.bupt.edu.cn/hls/ahhd.m3u8
+
+#EXTINF:-1,内黑龙江卫视HD
+http://ivi.bupt.edu.cn/hls/hljhd.m3u8
+
+#EXTINF:-1,内深圳卫视HD
+http://ivi.bupt.edu.cn/hls/szhd.m3u8
+
+#EXTINF:-1,内广东卫视HD
+http://ivi.bupt.edu.cn/hls/gdhd.m3u8
+
+#EXTINF:-1,内天津卫视HD
+http://ivi.bupt.edu.cn/hls/tjhd.m3u8
+
+#EXTINF:-1,内湖北卫视HD
+http://ivi.bupt.edu.cn/hls/hbhd.m3u8
+
+#EXTINF:-1,内江西卫视HD
+http://103.242.13.90:5555/udp/239.4.1.29:10000
+
+#EXTINF:-1,内河南卫视HD
+http://103.242.13.90:5555/udp/239.4.1.28:10000
+
+#EXTINF:-1,内CCTV1 快
+http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8
+
+#EXTINF:-1,内CCTV3
+http://ivi.bupt.edu.cn/hls/cctv3hd.m3u8
+
+#EXTINF:-1,内CCTV5+ 快
+http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8
+
+#EXTINF:-1,内CCTV6 快
+http://ivi.bupt.edu.cn/hls/cctv6hd.m3u8
+
+#EXTINF:-1,内CCTV8
+http://ivi.bupt.edu.cn/hls/cctv8hd.m3u8
+
+#EXTINF:-1,内CHC高清 HD
+http://ivi.bupt.edu.cn/hls/chchd.m3u8
