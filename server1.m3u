@@ -74,5 +74,8 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w31589757_b38
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hXLskLH/ctv.png" group-title="Indonesia",CTV Banten
 http://103.23.201.170:1935/live/livestream/lihattv.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Ochannel.png/200px-Ochannel.png",O Channel
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Ochannel.png/200px-Ochannel.png",O Channel
 http://edge.linknetott.swiftserve.com/channelgroup4/cg409production/ch26/02.m3u8
+
+#EXTINF:-1 group-title="Indonesia",RODJA TV
+http://vids.rodja.tv:1935/live/rodja/playlist.m3u8
