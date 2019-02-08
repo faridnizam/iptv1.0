@@ -71,6 +71,9 @@ http://210.210.155.35/session/d521fe72-f3e6-11e8-970f-9891b25868ec/qwr9ew/s/s48/
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8xnfQBJ/cnbc.jpg" group-title="Indonesia",CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w31589757_b384000_sleng.m3u8?_=1547207286697
 
+#EXTINF:-1 tvg-logo="https://cdn.cnnindonesia.com/cnnid/images/logo__cnn.png" group-title="Indonesia",CNN Indonesia
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hXLskLH/ctv.png" group-title="Indonesia",CTV Banten
 http://103.23.201.170:1935/live/livestream/lihattv.m3u8
 
