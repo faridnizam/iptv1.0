@@ -56,6 +56,9 @@ http://202.80.222.130/000001/2/ch00000090990000001695/1000.m3u8?virtualDomain=00
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/8/8b/Logo_BeritaSatu_TV.png/120px-Logo_BeritaSatu_TV.png" group-title="Indonesia",Berita Satu
 http://202.80.222.130/000001/2/ch00000090990000001683/1000.m3u8?virtualDomain=000001.live_hls.zte.com
 
+#EXTINF:-1 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/8/8b/Logo_BeritaSatu_TV.png/120px-Logo_BeritaSatu_TV.png" group-title="Indonesia",Berita Satu HD
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://iptv.luxe/images/logo/channel/thumbs/e01949dd5646cf5a41b524ac1dbe6106.png" group-title="Indonesia",BALI TV
 http://202.80.222.130/000001/2/ch00000090990000001729/1000.m3u8?virtualDomain=000001.live_hls.zte.com
 
@@ -77,6 +80,9 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w31589757_b38
 #EXTINF:-1 tvg-logo="https://cdn.cnnindonesia.com/cnnid/images/logo__cnn.png" group-title="Indonesia",CNN Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://cdn.cnnindonesia.com/cnnid/images/logo__cnn.png" group-title="Indonesia",CNN Indonesia HD
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1705215623_b384000_sleng.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hXLskLH/ctv.png" group-title="Indonesia",CTV Banten
 http://103.23.201.170:1935/live/livestream/lihattv.m3u8
 
@@ -85,3 +91,12 @@ http://edge.linknetott.swiftserve.com/channelgroup4/cg409production/ch26/02.m3u8
 
 #EXTINF:-1 group-title="Indonesia",RODJA TV
 http://vids.rodja.tv:1935/live/rodja/playlist.m3u8
+
+#EXTINF:-1 group-title="Indonesia",My TV
+http://210.210.155.35/qwr9ew/s/s46/index.m3u8
+
+#EXTINF:-1 group-title="Indonesia",My TV HD
+https://edge.nim.mivo.tv/intv6vkhr543hkwt/intv_all/playlist.m3u8
+
+#EXTINF:-1 group-title="Film",JGO
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8
