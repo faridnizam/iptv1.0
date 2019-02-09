@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1,Al Jazeera eng
-http://210.210.155.35/session/f1a22d04-f3de-11e8-b90e-997d9209e1ea/qwr9ew/s/s17/01.m3u8
 #EXTINF:-1,J Channel
 http://210.210.155.35/session/ab482d7a-f3e0-11e8-ba81-ac53b5fd5dd9/qwr9ew/s/s41/01.m3u8
 #EXTINF:-1,CelestialMovie
@@ -11,6 +9,8 @@ http://210.210.155.35/session/b32c7bf2-c313-11e8-9362-c81f66f89318/uq2663/h/h07/
 http://210.210.155.35/uq2663/h/h10/index.m3u8
 #EXTINF:-1,ZEE Bioskop
 http://210.210.155.35/session/6429f88c-c312-11e8-b712-b82a72d63267/qwr9ew/s/s32/01.m3u8
+#EXTINF:-1,Al Jazeera eng
+http://210.210.155.35/session/f1a22d04-f3de-11e8-b90e-997d9209e1ea/qwr9ew/s/s17/01.m3u8
 #EXTINF:-1,AYSAR MEKKAH
 http://210.210.155.35/session/490cf076-0756-11e9-ac17-b82a72d63267/qwr9ew/s/s28/01.m3u8
 #EXTINF:-1,AYSAR MADINA
@@ -41,5 +41,3 @@ http://210.210.155.35/qwr9ew/s/s42/index.m3u8
 http://210.210.155.35/qwr9ew/s/s46/index.m3u8
 #EXTINF:-1,UA TV
 http://210.210.155.35/qwr9ew/s/s47/index.m3u8
-##EXTINF:-1,Metro TV
-##http://210.210.155.35/qwr9ew/s/s49/index.m3u8
