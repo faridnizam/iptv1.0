@@ -5,11 +5,17 @@ http://202.80.222.130/000001/2/ch14041511560872104862/1000.m3u8?virtualDomain=00
 #EXTINF:-1 tvg-logo="https://iptv.luxe/images/logo/channel/thumbs/0b31e022261adf9fc6ce82660ed452d1.png" group-title="Indonesia",ANTV
 http://202.80.222.130/000001/2/ch14061215034900095272/1000.m3u8?virtualDomain=000001.live_hls.zte.com
 
+#EXTINF:-1 tvg-logo="https://iptv.luxe/images/logo/channel/thumbs/0b31e022261adf9fc6ce82660ed452d1.png" group-title="Indonesia",ANTV HD
+https://devanyahya.web.id/iptv/antvHD.m3u8
+
 #EXTINF:-1 tvg-logo="https://iptv.luxe/images/logo/channel/thumbs/000e4be121ffecc35dac4fbafc901553.png" group-title="Indonesia",Indosiar
 http://202.80.222.130/000001/2/ch15051810235326945512/1000.m3u8?virtualDomain=000001.live_hls.zte.com
 
 #EXTINF:-1 TV tvg-logo="https://iptv.luxe/images/logo/channel/thumbs/3cbcacce0280033198f2da98a2b4e753.png" group-title="Indonesia",Trans TV
 http://202.80.222.130/000001/2/ch14041511552652254306/1000.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1 TV tvg-logo="https://iptv.luxe/images/logo/channel/thumbs/3cbcacce0280033198f2da98a2b4e753.png" group-title="Indonesia",Trans HD
+https://devanyahya.web.id/iptv/transtvHD.m3u8
 
 #EXTINF:-1 tvg-logo="https://iptv.luxe/images/logo/channel/thumbs/ee30fd62da9ed2f3154a409abbfa357e.png" group-title="Indonesia",MNCTV
 http://202.80.222.130/000001/2/ch14041511111714365733/1000.m3u8?virtualDomain=000001.live_hls.zte.com
@@ -20,7 +26,7 @@ http://202.80.222.130/000001/2/ch14041511532707866226/1000.m3u8?virtualDomain=00
 #EXTINF:-1 tvg-logo="https://iptv.luxe/images/logo/channel/thumbs/70b442faf7651ffb07f62cf81fb677b2.png" group-title="Indonesia",SCTV
 http://202.80.222.130/000001/2/ch15010918464887721048/1000.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/GTV_logo_%282017%29.png/320px-GTV_logo_%282017%29.png" group-title="Indonesia",GTV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/GTV_logo_%282017%29.png/320px-GTV_logo_%282017%29.png" group-title="Indonesia",Global TV
 http://202.80.222.130/000001/2/ch14041511505498448705/1000.m3u8?virtualDomain=000001.live_hls.zte.com
 
 #EXTINF:-1 tvg-logo="https://iptv.luxe/images/logo/channel/thumbs/ea9d392f2db3aa7a2e9b2266c5503953.png" group-title="Indonesia",TV One
@@ -28,6 +34,9 @@ http://202.80.222.130/000001/2/ch14061215030555428637/1000.m3u8?virtualDomain=00
 
 #EXTINF:-1 tvg-logo="https://iptv.luxe/images/logo/channel/thumbs/8958551386d9326cfaab8bc165346bfb.png" group-title="Indonesia",Trans 7
 http://202.80.222.130/000001/2/ch14041511545447343123/1000.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1 tvg-logo="https://iptv.luxe/images/logo/channel/thumbs/8958551386d9326cfaab8bc165346bfb.png" group-title="Indonesia",Trans 7 HD
+https://devanyahya.web.id/iptv/trans7HD.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/c/c1/LogoMetroTVsince2010.svg/100px-LogoMetroTVsince2010.svg.png" group-title="Indonesia",Metro TV
 http://202.80.222.130/000001/2/ch14041511515576869807/1000.m3u8?virtualDomain=000001.live_hls.zte.com
@@ -37,6 +46,9 @@ http://202.80.222.130/000001/2/ch14041511541532132975/1000.m3u8?virtualDomain=00
 
 #EXTINF:-1 tvg-logo="https://iptv.luxe/images/logo/channel/thumbs/af27b0f197147cee7d7b34b47d6555ac.png" group-title="Indonesia",Kompas TV
 http://202.80.222.130/000001/2/ch00000090990000001730/1000.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1 tvg-logo="https://iptv.luxe/images/logo/channel/thumbs/af27b0f197147cee7d7b34b47d6555ac.png" group-title="Indonesia",Kompas TV
+https://devanyahya.web.id/iptv/kompastvHD.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5a/Rajawali_Televisi.svg/100px-Rajawali_Televisi.svg.png" group-title="Indonesia",RTV
 http://202.80.222.130/000001/2/ch00000090990000001716/1000.m3u8?virtualDomain=000001.live_hls.zte.com
@@ -74,6 +86,9 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w31589757_b38
 #EXTINF:-1 tvg-logo="https://cdn.cnnindonesia.com/cnnid/images/logo__cnn.png" group-title="Indonesia",CNN Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/e/e3/Spacetoon.png/200px-Spacetoon.png" group-title="Indonesia",Spacetoon
+https://devanyahya.web.id/iptv/spacetoon.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hXLskLH/ctv.png" group-title="Indonesia",CTV Banten
 http://103.23.201.170:1935/live/livestream/lihattv.m3u8
 
@@ -82,3 +97,9 @@ http://edge.linknetott.swiftserve.com/channelgroup4/cg409production/ch26/02.m3u8
 
 #EXTINF:-1 group-title="Indonesia",RODJA TV
 http://vids.rodja.tv:1935/live/rodja/playlist.m3u8
+
+#EXTINF:-1 group-title="Indonesia",Auto Gadget
+https://devanyahya.web.id/iptv/autogadget.m3u8
+
+#EXTINF:-1 group-title="Indonesia",Comedy
+https://devanyahya.web.id/iptv/comedy.m3u8
