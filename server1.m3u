@@ -38,9 +38,6 @@ http://202.80.222.130/000001/2/ch14041511541532132975/1000.m3u8?virtualDomain=00
 #EXTINF:-1 tvg-logo="https://iptv.luxe/images/logo/channel/thumbs/af27b0f197147cee7d7b34b47d6555ac.png" group-title="Indonesia",Kompas TV
 http://202.80.222.130/000001/2/ch00000090990000001730/1000.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:-1 tvg-logo="https://iptv.luxe/images/logo/channel/thumbs/af27b0f197147cee7d7b34b47d6555ac.png" group-title="Indonesia",Kompas TV
-https://devanyahya.web.id/iptv/kompastvHD.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5a/Rajawali_Televisi.svg/100px-Rajawali_Televisi.svg.png" group-title="Indonesia",RTV
 http://202.80.222.130/000001/2/ch00000090990000001716/1000.m3u8?virtualDomain=000001.live_hls.zte.com
 
@@ -80,8 +77,8 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w31589757_b38
 #EXTINF:-1 tvg-logo="https://cdn.cnnindonesia.com/cnnid/images/logo__cnn.png" group-title="Indonesia",CNN Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.cnnindonesia.com/cnnid/images/logo__cnn.png" group-title="Indonesia",CNN Indonesia HD
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1705215623_b384000_sleng.m3u8
+##EXTINF:-1 tvg-logo="https://cdn.cnnindonesia.com/cnnid/images/logo__cnn.png" group-title="Indonesia",CNN Indonesia HD
+##https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1705215623_b384000_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hXLskLH/ctv.png" group-title="Indonesia",CTV Banten
 http://103.23.201.170:1935/live/livestream/lihattv.m3u8
