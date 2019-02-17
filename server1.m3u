@@ -97,15 +97,3 @@ https://edge.nim.mivo.tv/intv6vkhr543hkwt/intv_all/playlist.m3u8
 
 #EXTINF:-1,JGO
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8
-
-#EXTINF:-1 group-title="Music",DANGDUTZ
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:dangdutch/playlist.m3u8
-
-#EXTINF:-1 group-title="Music",DANGDUTZ
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:dangdutch/playlist.m3u8
-
-#EXTINF:-1 group-title="Music",Karaoke Channel
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/playlist.m3u8
-
-#EXTINF:-1 group-title="Music",MiX Music
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:mixch/playlist.m3u8

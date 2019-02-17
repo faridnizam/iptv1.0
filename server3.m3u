@@ -14,12 +14,23 @@ http://livecdn.long.tv:8123/live/BA6C7841502446CBB5A1A4FCB18AAC99/playlist.m3u8?
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4u1fuhx.png",TV9
 http://livecdn.long.tv:8123/live/B1D6CEDF1EF24A28A1201C3B20F6E814/playlist.m3u8?sid=dafd63697b5044e4aade904bd6d840eb
 
-#EXTINF:-1,BTV NEWS
-http://203.176.130.123:8989/live/bayontv1_480k.stream/playlist.m3u8
+#EXTINF:-1,ASTRO SUPER SPORT 1
+http://203.154.243.89:1204
 
-#EXTINF:-1,NEWS ASIA
-http://drsh196ivjwe8.cloudfront.net/hls/cnai/03.m3u8
+#EXTINF:-1,ASTRO SUPER SPORT 2
+http://203.154.243.89:1206
 
-#EXTINF:-1,OKTO
-http://ddftztnzt6o79.cloudfront.net/hls/oktopcweb/prog_index.m3u8
+#EXTINF:-1,ASTRO SUPER SPORT 3
+http://203.154.243.89:1207
 
+#EXTINF:-1,ASTRO SUPER SPORT 4
+http://203.154.243.89:1211
+
+#EXTINF:-1,"MY TV
+http://103.242.13.90:5555/udp/239.4.1.56:10000
+
+#EXTINF:-1,CTN TV
+http://103.242.13.90:5555/udp/239.4.1.57:10000
+
+#EXTINF:-1,SUPER SOCCER
+http://210.210.155.35/uq2663/h/h20/index.m3u8
