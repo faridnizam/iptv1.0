@@ -32,11 +32,14 @@ http://210.210.155.35/qwr9ew/s/s30/index2.m3u8
 #EXTINF:-1,DISNEY JUNIOR
 http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
 
-#EXTINF:-1,"AniPlus
+#EXTINF:-1,AniPlus
 http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/01.m3u8
 
-#EXTINF:-1,CARTOON NETWORK 1
+#EXTINF:-1,Cartoon Network 1
 http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
+
+#EXTINF:0,Cartoon Network 2
+http://persik.by/stream/2944/263250/32.m3u8
 
 #EXTINF:-1,ANIMAX
 http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144/index2.m3u8
@@ -74,8 +77,9 @@ http://210.210.155.35/qwr9ew/s/s47/index.m3u8
 #EXTINF:-1,Sony One HD
 http://210.210.155.35/uq2663/h/h13/index.m3u8
 
-#EXTINF:-1,KOREA"K+
-http://210.210.155.35/uq2663/h/h08/index.m3u8
+#EXTINF:-1,K+
+http://rr.dens.tv/h/h08/index2.m3u8
+##http://210.210.155.35/uq2663/h/h08/index.m3u8
 
 #EXTINF:-1,SBS IN
 http://210.210.155.35/uq2663/h/h28/index1.m3u8
@@ -125,6 +129,9 @@ http://m-iptv.net:6204/avin2/wwesn4/13504
 #EXTINF:-1,WOWOW Movies
 http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220279
 
+#EXTINF:-1,Tokyo Inform
+http://210.210.155.35/uq2663/h/h23/index.m3u8
+
 #EXTINF:-1,BTV NEWS
 http://203.176.130.123:8989/live/bayontv1_480k.stream/playlist.m3u8
 
@@ -133,3 +140,6 @@ http://drsh196ivjwe8.cloudfront.net/hls/cnai/03.m3u8
 
 #EXTINF:-1,OKTO
 http://ddftztnzt6o79.cloudfront.net/hls/oktopcweb/prog_index.m3u8
+
+#EXTINF:-1,EGG
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch319)/index.m3u8
