@@ -83,9 +83,6 @@ http://210.210.155.35/uq2663/h/h13/index.m3u8
 #EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",Arirang Korea
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b1728000_sleng.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s.kaskus.id/r480x480/images/fjb/2017/09/26/tmp_phpwqzg7j_3528521_1506393197.jpg" group-title="PREMIUM ID",ARIRANG HD
-http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-
 #EXTINF:-1,K+
 http://rr.dens.tv/h/h08/index2.m3u8
 ##http://210.210.155.35/uq2663/h/h08/index.m3u8
