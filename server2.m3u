@@ -126,12 +126,6 @@ http://live.chosun.gscdn.com/live/_definst_/tvchosun1.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/B6vXfKu.png" group-title="Canales Koreanos",ETN  SD
 http://wma07.fluidstream.net:1935/TeleArena/livestream/playlist.m3u8
 
-#EXTINF:-1 group-title="є«№ъЖµµА",є«-CBS
-http://cbs-live.gscdn.com/cbs-live/cbs-live.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",EBS Kids
-http://bit.ly/2NFCRjg
-
 #EXTINF:-1,eGG NETWORK
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch319)/index.m3u8
 
@@ -225,9 +219,6 @@ http://210.210.155.35/uq2663/h/h20/index.m3u8
 #EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",NHK WORLD HD
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/263941/live_high2_s.m3u8
 
-#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",NHK WORLD HD
-https://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8
-
 #EXTINF:-1 tvg-logo="http://www.himawari.co.jp/wp-content/uploads/channel_logo_cs_261ch.jpg" group-title="JAPAN",Family Gekijo
 http://192.240.127.34:1935/live/cs11.stream/playlist.m3u8?wowzasessionid=2132394220
 
@@ -243,23 +234,8 @@ http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",ㄈnews24日テレㄈ
 http://n24-cdn-live-b.ntv.co.jp/ch01/High.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",news24
-http://n24-cdn-live.ntv.co.jp/ch01/Low.m3u8
-
-#EXTINF:-1 group-title="日本频道",日本购物1
+#EXTINF:-1 group-title="日本频道",日本购物
 http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
-
-#EXTINF:-1 group-title="日本频道",日本购物2
-http://stream1.shopch.jp/HLS/out2/prog_index.m3u8
-
-#EXTINF:-1 group-title="日本频道",日本购物3
-http://stream1.shopch.jp/HLS/out3/prog_index.m3u8
-
-#EXTINF:-1 group-title="日本频道",日本购物4
-http://stream1.shopch.jp/HLS/out4/prog_index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.starcat.co.jp/ch/wp-content/uploads/ch/57.jpg" group-title="JAPAN",Japanet Channel DX
-http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_600.m3u8
 
 #EXTINF:-1 group-title="海外",日本Japanet Channel DX
 http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_1200.m3u8
@@ -270,13 +246,13 @@ http://161.0.157.5/PLTV/88888888/224/3221226127/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA PREMIUM-SERVER2",HBO HD
 http://161.0.157.38/PLTV/88888888/224/3221226127/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://liveitkodi.com/Logos/HBO2.png" group-title="USA PREMIUM-SERVER2",HBO 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://liveitkodi.com/Logos/HBO2.png" group-title="USA PREMIUM-SERVER2",HBO 2 
 http://161.0.157.38/PLTV/88888888/224/3221227026/index.m3u8
 
-#EXTINF:-1 group-title="Movies" tvg-id="" tvg-name="" tvg-logo="http://liveitkodi.com/Logos/HBO2.png",HBO 2 
+#EXTINF:-1 group-title="Movies" tvg-id="" tvg-name="" tvg-logo="http://liveitkodi.com/Logos/HBO2.png",HBO 2 [360p]
 http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
 
-#EXTINF:-1 group-title="Movies" tvg-id="" tvg-name="" tvg-logo="http://liveitkodi.com/Logos/HBO2.png",HBO 2 
+#EXTINF:-1 group-title="Movies" tvg-id="" tvg-name="" tvg-logo="http://liveitkodi.com/Logos/HBO2.png",HBO 2 [720p]
 http://161.0.157.5/PLTV/88888888/224/3221227026/01.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA PREMIUM-SERVER2",FOX HD
@@ -336,5 +312,3 @@ https://bblive-liveprodapnortheast.hs.llnwd.net/btv/desktop/ap_live.m3u8
 #EXTINF:-1 group-title="Business" tvg-id="" tvg-name="" tvg-logo="",Bloomberg Europe
 https://bblive-liveprodeuwest.hs.llnwd.net/btv/desktop/eu_live.m3u8
 
-#EXTINF:-1 group-title="Business" tvg-id="" tvg-name="" tvg-logo="",Bloomberg US
-https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
