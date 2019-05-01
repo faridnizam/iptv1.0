@@ -96,24 +96,6 @@ http://210.210.155.35/session/315760d4-7c81-11e8-ba87-b82a72d63267/qwr9ew/s/s42/
 #EXTINF:-1,KBS WORLD
 http://edge.linknetott.swiftserve.com/channelgroup5/cg542production/ch262/03.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/EBS_Logo.svg/1200px-EBS_Logo.svg.png" tvg-name="EBS 1" group-title="ENTERTAINMENT",EBS 1
-http://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/B6vXfKu.png" group-title="Canales Koreanos",EBS 2 SD
-http://ebsonair.ebs.co.kr:1935/ebs2familypc/familypc1m/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/B6vXfKu.png" group-title="Canales Koreanos",EBS Kids SD
-http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/B6vXfKu.png" group-title="Canales Koreanos",EBS SD
-http://ebsonair.ebs.co.kr:1935/groundwavefamilypc/familypc1m/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/B6vXfKu.png" group-title="Canales Koreanos",EBS plus 1 SD
-http://ebsonair.ebs.co.kr:1935/plus1tablet500k/tablet500k/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/B6vXfKu.png" group-title="Canales Koreanos",EBS plus 2 SD
-http://ebsonair.ebs.co.kr:1935/plus2tablet500k/tablet500k/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://i.imgur.com/B6vXfKu.png" group-title="Canales Koreanos",TV CHOSUN HD
 http://live.chosun.gscdn.com/live/_definst_/tvchosun1.stream/playlist.m3u8
 
@@ -306,4 +288,11 @@ https://bblive-liveprodapnortheast.hs.llnwd.net/btv/desktop/ap_live.m3u8
 #EXTINF:-1 group-title="Business" tvg-id="" tvg-name="" tvg-logo="",Bloomberg Europe
 https://bblive-liveprodeuwest.hs.llnwd.net/btv/desktop/eu_live.m3u8
 
+#EXTINF:-1,National Geographic
+http://157.119.56.249:2019/live/gratis/diemdiemaja/219.ts
 
+#EXTINF:-1,Nat Geo Wild
+http://157.119.56.249:2019/live/gratis/diemdiemaja/220.ts
+
+#EXTINF:-1,Nat Geo People
+http://157.119.56.249:2019/live/gratis/diemdiemaja/221.ts
