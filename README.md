@@ -1,7 +1,4 @@
 # IPTV Indo / Luar
-
-Halo | Hola | Helo
-
 ## Link :
 ```
 http://bit.ly/matcha-iptv1 ( Lokal only ) 
